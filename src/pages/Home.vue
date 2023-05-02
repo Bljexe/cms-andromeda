@@ -1,6 +1,6 @@
 <template>
     <main>
-      <h1 ref="presentation" class="presentation">Andromeda Software!, Software development team.</h1>
+      <h1 ref="presentation" class="presentation">Andromeda Software. Software development team.</h1>
       <img src="../assets/humans.png" alt="Human Image" id="img-presentation">
     </main>
   </template>
@@ -43,7 +43,7 @@
   }
   
   .presentation {
-    max-width: 480px;
+    max-width: 400px;
     text-align: center;
     margin: 20px auto;
     font-family: "Courier New", Courier, monospace;
