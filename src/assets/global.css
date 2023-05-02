@@ -1,5 +1,5 @@
 :root {
-  --color-background: #2f2f2f;
+  --color-background: #000000;
   --color-navbar: #000000;
   --color-background-home: #344960;
   --color-text-light: #ededed;
@@ -30,4 +30,10 @@ a:hover {
 
 .container {
   width: 90%;
+}
+
+main {
+  width: 100%;
+  height: calc(100vh - 120px);
+  display: flex;
 }
