@@ -1,4 +1,5 @@
-# cms-vue
+# Andromeda Software website -- Under development.
+## Site developed by Bryan Lucas (owner of the repository), for contributions and suggestions, just request a pull request that I will analyze.
 
 ## Project setup
 ```
@@ -19,3 +20,4 @@ npm run build
 ```
 npm run lint
 ```
+
